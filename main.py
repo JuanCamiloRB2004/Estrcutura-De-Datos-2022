@@ -8,5 +8,5 @@ from activity1 import Activity1
 
 #se crea instancia
 inst_activity1 = Activity1
-#inst_activity1.poblacion_pais()
-inst_activity1.show_info()
+inst_activity1.poblacion_pais()
+#inst_activity1.show_info()

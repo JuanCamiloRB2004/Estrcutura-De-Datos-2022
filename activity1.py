@@ -24,6 +24,6 @@ class Activity1:
                     cantidad_paises.append(contador, nombre_pais, poblacion_paises)
                 break    
             except:
-                print('ingrese un valor numerico')
+                print('por favor, ingrese un valor numerico')
              
  
