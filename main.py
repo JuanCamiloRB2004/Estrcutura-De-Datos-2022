@@ -1,12 +1,8 @@
 '''
-    author: Juan camilo ramirez buritica
+    author: Juan Camilo Ramirez Buritica
+    date: 7/09/2022
     verssion: 1.0
-    lenguage: python
 '''
-#importamos clase desde el archivo
-from activity1 import Activity1
 
-#se crea instancia
-inst_activity1 = Activity1
-inst_activity1.poblacion_pais()
-#inst_activity1.show_info()
+from supermercado  import supermercado
+supermercado = supermercado()
